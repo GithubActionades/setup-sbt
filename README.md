@@ -1,2 +1,2 @@
 # setup-sbt
-Action that depends on
+Action that installs a specific JVM and SBT version
